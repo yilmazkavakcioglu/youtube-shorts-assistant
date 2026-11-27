@@ -55,6 +55,8 @@ Issues and pull requests are welcome, especially updates when YouTube changes it
 Made by **Yılmaz Kavakçıoğlu**: designer and digital marketer with 6–7 years in brand identity, advertising and digital marketing.
 
 - GitHub: [@yilmazkavakcioglu](https://github.com/yilmazkavakcioglu)
+- LinkedIn: [yilmazkavakcioglu](https://www.linkedin.com/in/yilmazkavakcioglu/)
+- Instagram: [@yilmazcreativee](https://www.instagram.com/yilmazcreativee/)
 
 If this helps you, a ⭐ on the repo helps others find it.
 
