@@ -50,6 +50,14 @@ In the first conversation the assistant asks how many channels you run, in which
 
 Issues and pull requests are welcome, especially updates when YouTube changes its policies or thresholds.
 
+## Author
+
+Made by **Yılmaz Kavakçıoğlu**: designer and digital marketer with 6–7 years in brand identity, advertising and digital marketing.
+
+- GitHub: [@yilmazkavakcioglu](https://github.com/yilmazkavakcioglu)
+
+If this helps you, a ⭐ on the repo helps others find it.
+
 ## License
 
 MIT
