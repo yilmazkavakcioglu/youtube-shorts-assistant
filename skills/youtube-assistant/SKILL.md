@@ -91,6 +91,41 @@ Numbers change; check the web for current figures before any money or policy dec
 ### Gear
 - Audio matters more than video; first buy a mic, then light. Start with: phone + lavalier mic + one soft light + tripod + screen recording. Upgrade the camera once the format works.
 
+## Knowledge base 2 (research update, November 2026)
+
+### Getting monetized faster
+- Shorts views and long-form watch hours don't combine; one route must be met on its own. Shorts watch time never counts toward the 4,000/8,000-hour route.
+- Qualified Shorts views: public Shorts where the viewer kept watching past the first few seconds. Loops, views played as ads, private/unlisted/deleted Shorts and image posts in the Shorts feed don't count. For long-form, ad views and non-archived livestreams don't count; archived livestreams and podcasts do.
+- The 500-subscriber lower tier doesn't change in 2027 (3 uploads in 90 days + 3,000 hours or 3M Shorts views). It unlocks fan funding and some Shopping features, not ad revenue.
+- After February 1, 2027, existing YPP channels face "active channel" checks (roughly: 1,000 hours in 365 days, 1M Shorts views in 90 days, 2 long-form or 5 Shorts uploads every 90 days; a 90-day window to recover). Verify the exact combination before advising.
+- Fastest realistic route is hybrid: Shorts for discovery and subscribers, long-form or archived livestreams for watch hours. Livestreams are the fastest free way to build hours. Publishing a Short and a long-form video at the same moment can weaken both; space them out.
+
+### Global reach
+- Auto dubbing now covers 27 languages and is rolling out to all creators; YouTube says it doesn't hurt discoverability. Setting: Studio > Settings > Upload defaults > Advanced > allow automatic dubbing. Check Shorts support in the channel's own Studio.
+- Channels using multi-language audio saw over 25% of watch time come from other languages. Start with one strong evergreen video and measure with the "audio track" filter in Studio.
+- Also add translated titles, descriptions and captions.
+
+### Getting into the Shorts feed
+- Each Short is first shown to a small seed audience; distribution expands in waves while response stays strong and stops when it drops. A brand-new channel is matched on topic and content understanding; if nobody responds, impressions stop. The system learns separately for subscribers, non-subscribers and new viewers.
+- Batch sizes like "300 or 1,000 views" have no YouTube source; never quote fixed thresholds.
+- In practice: keep the channel on one topic so seed audiences match, make the first frame strong, don't delete and re-upload a Short that stalled.
+- Trending audio and Remix (Collab side-by-side, Green Screen, Cut 1–5 s) are fine; add real commentary to avoid reused content.
+
+### Better publishing
+- Timing studies conflict (Friday evening and weekday ~4 PM show up often for Shorts); decide from the channel's own "when your viewers are on YouTube" data, per channel time zone.
+- Brands that posted Shorts more often saw much higher reach in 2026 (Metricool), but never trade quality for volume.
+- The Related video link is the main path from a Short to more content; URLs in Shorts comments aren't clickable. Give every Short a pinned comment: a real question tied to a moment in the video, or the next video to watch. Write it before publishing.
+- Replying to comments with a Short turns good viewer questions into new videos.
+
+### Search (SEO)
+- Shorts use the same metadata as long-form (title, description, hashtags, captions), but most distribution comes from the feed; search is secondary yet adds long-tail value.
+- Title: a real search query, keyword first. Description: 2–5 sentences, keyword in the first sentence. Hashtags: 3–5 (1 broad + 1–2 niche + #Shorts) in the description; too many can hurt reach. Tags matter little.
+- Say the keyword out loud and show it on screen; caption text is indexed. Most Shorts are watched muted, so captions also lift completion.
+- New channels may need 3–6 months of consistent publishing to rank reliably in search.
+
+### Packaging tests
+- YouTube A/B testing (formerly Test & Compare): up to 3 titles, thumbnails or title+thumbnail combos in desktop Studio; the winner is picked by watch time; tests run up to two weeks; changing the title or thumbnail mid-test stops it. Requires advanced features. Primary tool for long-form; check Shorts eligibility in Studio.
+
 ## Never
 - Promise guaranteed or inflated income.
 - Suggest ways to evade or hide from policies.
