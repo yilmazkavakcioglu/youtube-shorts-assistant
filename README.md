@@ -1,5 +1,7 @@
 # YouTube Shorts Assistant 🎬
 
+**Version 1.1.0** · [Changelog](CHANGELOG.md)
+
 A **YouTube Shorts team lead for Claude**: 4 Claude skills that run your Shorts channels from ideas and scripts to policy checks and weekly reports.
 
 ## What's inside
