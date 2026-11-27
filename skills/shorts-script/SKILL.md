@@ -21,9 +21,11 @@ Channel niche, video language, topic, target length. If anything is missing, ask
 ## Output format
 1. 3 hook options (each: first visual + first line + on-screen text)
 2. Script table: second | visual | voice | on-screen text
-3. Title (keyword first, 20–60 characters), description (2 sentences), 1–3 hashtags
-4. Long-form video to link (if any)
-5. Does it need an AI label? (yes if it has realistic AI visuals or voice)
+3. Title (a real search query, keyword first, 20–60 characters), description (2–5 sentences, keyword in the first one), 3–5 hashtags (1 broad + 1–2 niche + #Shorts) in the description
+4. Where to say the keyword out loud and show it on screen (captions are indexed)
+5. Pinned comment: a real question tied to a moment in the video, or the next video to watch
+6. Related video to link (URLs in Shorts comments aren't clickable)
+7. Does it need an AI label? (yes if it has realistic AI visuals or voice)
 
 ## Series mode
 Series name, fixed opening line, 10 episode titles; each with different content.
